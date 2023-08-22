@@ -7,6 +7,7 @@ public class LoopDonguDemo {
 
         System.out.println("-------------");
 
+
         int sayfa = 5;
         for (int i = 1; i <= sayfa; i++) {
             System.out.println("sayfa sayisi " + i);
