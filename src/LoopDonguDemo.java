@@ -12,7 +12,7 @@ public class LoopDonguDemo {
         for (int i = 1; i <= sayfa; i++) {
             System.out.println("sayfa sayisi " + i);
             if (i == 3) {
-                System.out.println("Kosul saglandi " + i);
+                System.out.println("Kosul saglandi... " + i);
                 break;
             }
         }
